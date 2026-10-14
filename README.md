@@ -1,6 +1,6 @@
 # Unit Conversion Calculator
 
-A short description what this project does and who it's for.
+A Unit conversion calculator that allows for the user to input units of measurement and quantities to be converted into other units of measurement and quantities as well as make multiple conversions before deciding to exit.
 
 ## Installation
 
